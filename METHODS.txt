@@ -1,0 +1,31 @@
+WHAT IS METHODS?
+
+A method in Java is a block of code that performs a specific task. It is like 
+a function in other programming languages and is used to define the behavior of an object.
+Methods can take inputs (parameters), perform actions, and optionally return a result.
+
+
+A method is a set of instructions grouped together to perform a specific
+action or operation in a Java program.
+
+Key Features of Methods
+Code Reusability: Methods can be called multiple times, reducing redundancy.
+Modularity: They help break down complex programs into smaller, manageable pieces.
+Encapsulation: Methods encapsulate behavior within a class, hiding implementation details from other classes.
+Parameters and Return Values: Methods can accept inputs (parameters) and return outputs (return values).
+
+
+Structure of a Method
+A Java method has the following parts:
+
+Method Signature: Specifies the name, return type, and parameters.
+Method Body: Contains the block of code that defines the method's behavior.
+
+Parts of a Method
+Modifier: Defines the access level (e.g., public, private, protected).
+Return Type: Specifies the type of value the method returns (void if it doesn't return anything).
+Method Name: A unique name that identifies the method.
+Parameters: Input values passed to the method (enclosed in parentheses).
+Method Body: The code block that executes when the method is called.
+Return Statement: Returns a value from the method (only if the return type is not void).
+
