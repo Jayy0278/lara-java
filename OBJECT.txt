@@ -1,0 +1,76 @@
+What is an Object in Java?
+An object in Java is an instance of a class. 
+It represents a real-world entity with properties (attributes) and behaviors (methods). 
+Objects are the building blocks of Object-Oriented Programming (OOP) and are created based on the blueprint provided by a class.
+
+Key Features of an Object
+State: The data or attributes of the object, stored in fields (variables).
+Example: A car's state includes its color, brand, and speed.
+
+Behavior: The actions that the object can perform, defined by methods.
+Example: A car can accelerate, brake, and honk.
+
+Identity: A unique reference that distinguishes(दो वस्‍तुओं या व्‍यक्तियों में अंतर पहचानना) one object from another.
+Example: Even two cars of the same brand and model are distinct objects.
+
+How Objects Work in Java
+Objects are created using the new keyword followed by a class constructor.
+Objects store their state in fields and use methods to perform actions or modify their state.
+Each object has a unique memory location.
+
+exp:
+ClassName objectName = new ClassName(parameters);
+
+Components of an Object
+Attributes (Fields):
+Represent the properties or characteristics of the object.
+Example: String color, int speed.
+
+
+Methods:
+Define the behaviors or actions of the object.
+Example: displayDetails(), accelerate().
+
+
+Constructors:
+Special methods used to initialize the state of an object.
+
+
+References:
+A reference variable points to the memory location of theobject.
+Characteristics of Objects
+
+Dynamic Nature:
+Objects can change their state during runtime by modifying attributes.
+
+Encapsulation:
+Objects bundle data (attributes) and methods together, ensuring data security.
+
+Reusability:
+Multiple objects of the same class can be created with different states.
+
+Advantages of Objects
+Real-World Modeling:
+Objects allow the representation of real-world entities, making programs intuitive.
+Reusability:
+The same class blueprint can create multiple objects.
+Modularity:
+Objects divide a program into smaller, manageable pieces.
+Data Security:
+Using encapsulation, sensitive data can be protected.
+
+
+Differences Between Class and Object
+        Class                              Object
+A blueprint or template.	         An instance of a class.
+Does not occupy memory.	             Occupies memory.
+Defines properties and behaviors.	 Implements properties and behaviors.
+Example: Car class.	                 Example: myCar object.
+
+
+Key Points
+An object is a runtime entity created from a class.
+Objects have state, behavior, and identity.
+Multiple objects can be created from the same class.
+Objects are manipulated using references in Java.
+These notes provide a detailed explanation of objects in Java!
