@@ -1,0 +1,41 @@
+WHAT IS CLASS?
+A class in Java is user-defined blueprint or prototype that serves as a template for creating objects.
+It encapsulates data (fields) and methods (functions) that operate on the data, 
+enabling modular and reusable code in object-oriented programming.
+
+Key Features of a Java Class
+
+Fields: Variables that hold the state or attributes of an object.
+
+Methods: Functions that define the behavior of the objects created from the class.
+
+Constructors: Special methods used to initialize objects.
+
+Modifiers: Keywords like public, private, and protected that define the visibility or scope of the class, fields, and methods.
+
+Key Features of a Class:
+Encapsulation: Classes group data and methods together, keeping them organized and secure.
+
+Reusability: Classes can be reused to create multiple objects with similar properties and behaviors.
+
+Modularity: Classes help divide a program into smaller, manageable units.
+
+Inheritance: A class can inherit properties and methods from another class.
+
+Abstraction: Classes allow hiding the implementation details from users.
+
+Advantages of Classes
+Modular Code: Classes divide programs into smaller, manageable pieces.
+Reusability: A class can be reused to create multiple objects.
+Scalability: Easy to add new features by extending or modifying existing classes.
+Security: Encapsulation helps protect sensitive data.
+
+
+Key Points to Remember
+A class is a blueprint for objects.
+Objects are instances of a class.
+Use fields for data storage and methods for behavior.
+Constructors are special methods for initializing objects.
+Classes are the building blocks of object-oriented programming in Java.
+
+ 

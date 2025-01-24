@@ -1,0 +1,63 @@
+WHAT IS FACTOR
+a number which is divisrable by any number leaving reminder zero.
+
+Factors are the numbers you can multiply together to get another number. 
+In programming, a factor of a number is any number that divides it evenly, 
+leaving no remainder.
+
+
+The factors of 12 are 1, 2, 3, 4, 6, and 12, because:
+1×12=12
+2×6=12
+3×4=12.
+
+Key Properties of Factors
+Divisibility: A factor divides the number completely without a remainder.
+Finite Number: A number has a finite number of factors.
+Smallest Factor: The smallest factor of any number is 1.
+Largest Factor: The largest factor of a number is the number itself.
+Pairs of Factors: Factors always appear in pairs.
+
+Types of Factors
+Prime Factors:
+
+Factors that are prime numbers.
+Example: Prime factors of 12 are 2 and 3 (since 
+2×2×3=12(2×2×3=12).
+
+Common Factors:
+Factors that are common between two or more numbers.
+Example: Common factors of 12 and 18 are 1, 2, 3, and 6.
+
+Highest Common Factor (HCF):
+The largest factor common to two or more numbers.
+Example: HCF of 12 and 18 is 6.
+
+Prime Factorization
+Prime factorization is breaking down a number into its prime factors.
+
+Steps:
+
+Start dividing the number by the smallest prime number (2, 3, 5, etc.).
+Continue dividing the quotient(bhaag) by prime numbers until the quotient becomes 1.
+Example: Find the prime factorization of 24:
+24÷2=12
+12÷2=6
+6÷2=3
+3÷3=1
+
+Prime factors: 
+2×2×2×3
+
+Real-Life Applications of Factors
+Divisors: Used in dividing objects or quantities into equal parts.
+Simplifying Fractions: Factors help reduce fractions to their simplest form.
+Finding HCF and LCM: Useful in solving problems related to ratios, proportions, and schedules.
+Number Theory: Factors are essential in cryptography and prime number studies.
+
+Key Points to Remember
+1 is a factor of every number.
+Every number is a factor of itself.
+Factors are always less than or equal to the number.
+Prime numbers have exactly two factors: 1 and the number itself.
+Composite numbers have more than two factors.
